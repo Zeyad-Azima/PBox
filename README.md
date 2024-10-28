@@ -2,7 +2,22 @@
 ![logo.png](logo.png)
 PBox is an Experience killing password manager built with **PyQt5** for the GUI and **SQLite** for data storage. It provides functionalities like user authentication, password encryption, backup/restore to Google Drive, and API key management.
 
-## Features
+## 📝 To-Do List
+
+### 1. **Switch to NoSQL** 📦
+
+### 2. **Make Mobile App Client for the API** 📱
+
+### 3. **Accessible Over the Network for Multi-Device Usage** 🌐
+
+### 4. **Integrate with Secure Browser Plugin** 🔐
+
+### 5. **Add Obfuscation** 🛡️
+
+### 6. **Database Encryption/Decryption Automatically When Open/Close** 🔒
+
+### 7. **Re-write in Rust** 🚀
+
 
 - **User Authentication** 
   - Secure login with hashed passwords.
