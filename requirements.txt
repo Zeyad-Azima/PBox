@@ -1,0 +1,9 @@
+Flask==2.3.2
+google_api_python_client==2.149.0
+google_auth_oauthlib==1.2.1
+pycryptodome==3.21.0
+PyQt5==5.15.11
+PyQt5_sip==12.15.0
+Requests==2.32.3
+setuptools==58.0.4
+pyinstaller
