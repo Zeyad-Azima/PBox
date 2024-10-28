@@ -183,7 +183,6 @@ Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 -a----        10/28/2024   2:18 AM       53250708 app.exe
 ```
-## API 
 
 ### Google Drive Integration (Optional)
 - Set up Google OAuth credentials and download the `credentials.json` file.
