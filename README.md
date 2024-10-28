@@ -19,6 +19,7 @@ PBox is an Experience killing password manager built with **PyQt5** for the GUI 
 ### 7. **Re-write in Rust** 🚀
 
 --------
+## Features
 
 - **User Authentication** 
   - Secure login with hashed passwords.
